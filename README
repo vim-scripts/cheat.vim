@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2015
+
+Usage:
+
+:Cheat <Tab>
+will autocomplete the available cheatsheets.
+
+alternatively, you can position the cursor over a word matching a cheatsheet (say ambition) and hit <leader>ch
+Tip: looks nicer when you have wildmenu turned on ;-)
